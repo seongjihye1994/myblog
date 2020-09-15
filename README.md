@@ -1,6 +1,6 @@
-# Getting Started
+# Spring Boot 시작하기~!
 
-### Reference Documentation
+### 목차
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
